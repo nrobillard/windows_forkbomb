@@ -1,0 +1,15 @@
+REM Nicks fork
+
+
+REM Enter powershell
+DELAY 1000
+GUI r 
+STRING Powershell
+ENTER
+
+REM Making file
+
+STRING New-Item -Path "C:\Logs\fun.txt" -ItemType File
+ENTER
+
+
